@@ -1,6 +1,8 @@
 # E-commerce Vegetable Price Prediction
 
-This project focuses on predicting the prices of various vegetables in Korea using time-series data from Kaggle. The dataset includes prices from 2016/01/01 to 2020/09/28 for training and 2020/09/29 to 2020/11/05 for testing. The target vegetables for prediction are tomatoes, carrots, enoki mushrooms, cabbages, and radishes.
+This project focuses on building a machine-learning model to predict the prices of various vegetables in Korea.
+The time-series data are from Kaggle, with 01/01/2016 ~ 28/09/2020 for training and 28/09/2020 ~ 05/11/2020 for testing. 
+The target vegetables for prediction are tomato, carrot, enoki, cabbage, and radish.
 
 ![streamlit](https://github.com/user-attachments/assets/ce6bc5b8-b7b5-4eb4-b3ee-a7d325e513e9)
 
