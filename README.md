@@ -2,11 +2,9 @@
 
 This project focuses on predicting the prices of various vegetables in Korea using time-series data from Kaggle. The dataset includes prices from 2016/01/01 to 2020/09/28 for training and 2020/09/29 to 2020/11/05 for testing. The target vegetables for prediction are tomatoes, carrots, enoki mushrooms, cabbages, and radishes.
 
-source of data: https://www.nongnet.or.kr/front/index.do
-
 ![streamlit](https://github.com/user-attachments/assets/ce6bc5b8-b7b5-4eb4-b3ee-a7d325e513e9)
 
-streamlit link - https://hk-pricepredict.streamlit.app/
+Dashboard: https://hk-pricepredict.streamlit.app/
 
 ## Project Overview
 
@@ -28,5 +26,7 @@ Streamlit was utilized to visualize the results of the data analysis and the per
 You can view the Streamlit app here: [Price Prediction App](https://hk-pricepredict.streamlit.app/)
 
 ## References
+
+Source of data: https://www.nongnet.or.kr/front/index.do
 
 This project was developed with guidance from an online course at METACODE.
