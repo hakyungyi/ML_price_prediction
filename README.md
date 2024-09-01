@@ -4,6 +4,10 @@ This project focuses on predicting the prices of various vegetables in Korea usi
 
 source of data: https://www.nongnet.or.kr/front/index.do
 
+![streamlit](https://github.com/user-attachments/assets/ce6bc5b8-b7b5-4eb4-b3ee-a7d325e513e9)
+
+streamlit link - https://hk-pricepredict.streamlit.app/
+
 ## Project Overview
 
 The project follows a structured approach, starting with Exploratory Data Analysis (EDA) to understand the dataset and its underlying patterns. The following machine learning models were used for prediction:
